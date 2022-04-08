@@ -1,0 +1,25 @@
+{
+  "name": "tsundoku",
+  "version": "1.0.0",
+  "description": "manga downloader",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/podgorny/tsundoku.git"
+  },
+  "keywords": [
+    "manga",
+    "reader",
+    "downloader",
+    "pdf"
+  ],
+  "author": "Yehor Pidhornyi",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/podgorny/tsundoku/issues"
+  },
+  "homepage": "https://github.com/podgorny/tsundoku#readme"
+}
